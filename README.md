@@ -1,2 +1,5 @@
-# pkgviz
-Application that shows you your installed package, and wether or not they are up to date.
+
+## Prerequisites
+- **OS:** Arch Linux (or derivatives)
+- **System Tools:** `pacman`, `polkit` (for `pkexec`)
+- **Python 3.10+**

@@ -1,0 +1,7 @@
+[project]
+name = "arch-pkg-manager"
+version = "0.1.0"
+dependencies = [
+    "PySide6",
+    "thefuzz",
+]
